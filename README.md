@@ -27,8 +27,7 @@ Both tasks were implemented and tested in Google Colab as required.
 - PyCryptodome (for AES encryption)  
 
 📄 Files Included
-- **IoT_Security_<YourName>_<ID>.ipynb** — main Colab notebook containing both Part I and Part II.  
-- **IoT_Security_<YourName>_<ID>.pdf** — full report including code outputs and handwritten answers.  
+- **IoT_Security_<YourName>_<ID>.ipynb** — main Colab notebook containing both Part I and Part II.   
 
 👤 Author
 Name: Alhasan Salim Bani  

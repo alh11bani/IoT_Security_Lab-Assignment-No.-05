@@ -1,4 +1,4 @@
-IoT Security Lab – Data Encryption & Device Lifecycle  
+#IoT Security Lab – Data Encryption & Device Lifecycle  
 🧩 Description
 This project implements two core IoT security simulations:
 
